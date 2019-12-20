@@ -1,0 +1,14 @@
+2019-12-19 23:34:53,731 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-19 23:35:43,120 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/nicklin/Documents/HungryMe/webapp/hungrymeserver/pom.xml
+2019-12-19 23:35:45,857 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: hungryme:hungrymeserver:0.0.1-SNAPSHOT @ /Users/nicklin/Documents/HungryMe/webapp/hungrymeserver/pom.xml.
+2019-12-19 23:35:46,451 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hungrymeserver/src/main/java
+2019-12-19 23:35:46,461 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hungrymeserver/src/test/java
+2019-12-19 23:35:48,399 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2019-12-19 23:35:49,509 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-19 23:35:49,509 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nicklin/Documents/HungryMe/webapp/hungrymeserver/src/main/resources
+2019-12-19 23:35:49,514 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-19 23:35:49,514 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nicklin/Documents/HungryMe/webapp/hungrymeserver/src/test/resources
+2019-12-19 23:36:22,955 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-19 23:36:22,955 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nicklin/Documents/HungryMe/webapp/hungrymeserver/src/main/resources
+2019-12-19 23:36:22,957 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-19 23:36:22,957 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nicklin/Documents/HungryMe/webapp/hungrymeserver/src/test/resources
